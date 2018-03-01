@@ -3,8 +3,11 @@
 
 
 ## Intro
+![Build Status](https://img.shields.io/badge/build-passing-yellowgreen.svg)
+![Python 3.5](https://img.shields.io/badge/Python-3.5-green.svg)
+![Pytorch 0.1.12](https://img.shields.io/badge/pytorch-0.1.12-yellow.svg)
 
-![Python 3.6](https://img.shields.io/badge/Python-3.6-green.svg)
+
 
 
 Detecting Multiple objects in a video using Single Shot Multibox Detector
@@ -58,3 +61,5 @@ Training is simple but GPU `CUDA` is mandatory otherwise it will take months to 
 ```
 
 <b>Created by:</b><br><i><b>Anubhav Shukla</b></i>
+
+![lic](https://img.shields.io/badge/anubhv-%C2%A92017-blue.svg)
