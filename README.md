@@ -23,7 +23,7 @@ Weight Files are splitted as
 
 Join weight files [Here](http://pinetools.com/join-files)
 
-Read more about <b>SSD</b> [here](hhttps://arxiv.org/pdf/1512.02325.pdf)
+Read more about <b>SSD</b> [here](https://arxiv.org/pdf/1512.02325.pdf)
 
 
 Click on this image to see demo from SSD:
