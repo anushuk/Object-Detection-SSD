@@ -1,5 +1,6 @@
 # Object-Detection-SSD
 <hr>
+![Python 3.6](https://img.shields.io/badge/Python-3.6-green.svg)
 
 ## Intro
 
