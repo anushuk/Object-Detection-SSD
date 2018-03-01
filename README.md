@@ -32,17 +32,18 @@ Click on this image to see demo from SSD:
 
 ## Dependencies
 
-Check out the <b>virtual_platform_windows.yml</b> file
+Check out the</br> <b>virtual_platform_windows.yml</b> file
 
 ### Getting started
 
-Create a virtual platform.
+Create a virtual platform.</br>
     ```
     conda env create -f virtual_platform_windows.yml
     ```
 
 ## Working
 [![img](working.png)]
+
 
 ## Testing
 
